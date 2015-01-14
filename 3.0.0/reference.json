@@ -2672,7 +2672,7 @@
             },
             "layout": {
                 "css": "group-layout",
-                "required": true,
+                "required": false,
                 "type": "tags",
                 "serialization": "tag",
                 "expression":true,
